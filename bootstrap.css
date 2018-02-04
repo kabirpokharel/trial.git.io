@@ -6062,6 +6062,9 @@ button.close {
 .bnr2 {
   text-align: -webkit-center;
   margin-top: -60px; }
+.bannerImg{
+margin:auto;
+}
 
 .footer {
   background-color: #252550;
